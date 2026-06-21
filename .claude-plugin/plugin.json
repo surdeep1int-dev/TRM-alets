@@ -1,0 +1,17 @@
+{
+  "name": "trm-alerts",
+  "version": "1.0.0",
+  "description": "Analyses last 1 month of alerts across 3-4 TRM Confluence pages and produces a 4-column HTML report: Alert Name, Description, Reason, Action Taken",
+  "author": {
+    "name": "Instamart Engineering",
+    "email": "im-engineering@swiggy.in"
+  },
+  "keywords": [
+    "trm",
+    "alerts",
+    "oncall",
+    "confluence",
+    "analysis",
+    "instamart"
+  ]
+}
